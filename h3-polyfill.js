@@ -1,5 +1,3 @@
-/* eslint-disable no-param-reassign */
-
 const h3 = require('h3-js');
 const helpers = require('@turf/helpers');
 const normalize = require('@mapbox/geojson-normalize');
