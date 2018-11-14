@@ -4,6 +4,8 @@
 
 It takes an input polygon as a GeoJSON file and outputs hex as a GeoJSON polygon feature collection.
 
+![screenshot](https://raw.githubusercontent.com/stepankuzmin/h3-polyfill/master/example.png)
+
 ## Installation
 
 ```shell
