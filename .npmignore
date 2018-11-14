@@ -1,0 +1,7 @@
+*.zip
+*.geojson
+
+test.js
+example.png
+
+.eslintrc
