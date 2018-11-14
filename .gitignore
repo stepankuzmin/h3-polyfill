@@ -1,0 +1,5 @@
+*.zip
+*.geojson
+*.DS_Store
+
+node_modules
