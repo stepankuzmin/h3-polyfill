@@ -1727,10 +1727,10 @@ graceful-fs@^4.1.2, graceful-fs@^4.1.6:
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.1.15.tgz#ffb703e1066e8a0eeaa4c8b80ba9253eeefbfb00"
   integrity sha512-6uHUhOPEBgQ24HM+r6b/QwWfZq+yiFcipKFrOFiBEnWdy5sdzYoi+pJeQaPI5qOLRFqWmAXUPQNsielzdLoecA==
 
-h3-js@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/h3-js/-/h3-js-3.2.0.tgz#6711536fbb342827d0e3e99d0deaea724762edbf"
-  integrity sha512-IetXL00Tq+f/9bUV8bPjx9VUA9oydMBbnPVJ35cZyqijS2Peou+fsuCCVUb7HhgGTHAKUrPjNBzBAbb3obFq/w==
+h3-js@^3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/h3-js/-/h3-js-3.3.0.tgz#df68d029772a04ec0ec3e523a14f5a47dd5c7651"
+  integrity sha512-Q5QIru1gWFqNpPqCVWbyXycTidHUx2ET/vYZIlkbmC/+2TYmeKqbNcYoD9OPz50mkSSR32uOJriNSFigQLdZNw==
 
 handlebars@^4.0.2:
   version "4.0.12"
