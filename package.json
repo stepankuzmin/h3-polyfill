@@ -18,7 +18,7 @@
   "dependencies": {
     "@mapbox/geojson-normalize": "^0.0.1",
     "@turf/helpers": "^6.1.4",
-    "h3-js": "^3.2.0"
+    "h3-js": "^3.3.0"
   },
   "devDependencies": {
     "@mapbox/geojsonhint": "^2.1.0",
