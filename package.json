@@ -4,7 +4,7 @@
   "description": "Uber h3 polyfill CLI",
   "author": "Stepan Kuzmin <to.stepan.kuzmin@gmail.com> (stepankuzmin.ru)",
   "license": "MIT",
-  "main": "h3-polyfill.js ",
+  "main": "h3-polyfill.js",
   "bin": {
     "h3-polyfill": "./index.js"
   },
