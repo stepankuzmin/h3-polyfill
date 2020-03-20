@@ -13,6 +13,6 @@ if (!input || !resolution) {
 }
 
 const polygon = JSON.parse(fs.readFileSync(input));
-const fc = polyfill(polygon, resolution);
+const fc = polyfill(polygon, parseInt(resolution, 10));
 
 process.stdout.write(JSON.stringify(fc, null, 2));
