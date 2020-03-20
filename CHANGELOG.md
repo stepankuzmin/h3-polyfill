@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/stepankuzmin/h3-polyfill/compare/v1.1.0...v1.2.0) (2020-03-20)
+
+
+### Features
+
+* add MultiPolygon support ([05bada6](https://github.com/stepankuzmin/h3-polyfill/commit/05bada6e5190da8e0a1aef460f9b86abf1c41956))
+
 ## [1.1.0](https://github.com/stepankuzmin/h3-polyfill/compare/v1.0.1...v1.1.0) (2020-03-20)
 
 
