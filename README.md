@@ -1,6 +1,6 @@
 # h3-polyfill
 
-[![Build Status](https://travis-ci.org/stepankuzmin/h3-polyfill.svg?branch=master)](https://travis-ci.org/stepankuzmin/h3-polyfill) [![Greenkeeper badge](https://badges.greenkeeper.io/stepankuzmin/h3-polyfill.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/stepankuzmin/h3-polyfill.svg?branch=master)](https://travis-ci.org/stepankuzmin/h3-polyfill)
 
 `h3-polyfill` is a library and a command line interface to Uber [h3 polyfill](https://github.com/uber/h3-js#module_h3.polyfill).
 
